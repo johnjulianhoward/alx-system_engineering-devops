@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod-Rugo+X
+sudo chown -R vincent:staff "$PWD"
